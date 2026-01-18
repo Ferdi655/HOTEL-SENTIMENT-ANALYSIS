@@ -95,8 +95,8 @@ ______________________________________________________________________
 app_streamlit.py
 
 1.Hotel Reviews Sentiment Analysis (NLP)
-This project implements a **Natural Language Processing (NLP) based Sentiment Analysis system** for hotel reviews using **Machine Learning**.  
-It includes **model training, evaluation, artifact saving**, and a **Streamlit web application** for real-time sentiment prediction.
+This project implements a "Natural Language Processing (NLP) based Sentiment Analysis system" for hotel reviews using **Machine Learning**.  
+It includes "model training, evaluation, artifact saving" and a "Streamlit web application" for real-time sentiment prediction.
 2.Author
 Ferdinand C. Sungoh,Batch-11  
 3.Project Objective
