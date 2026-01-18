@@ -1,0 +1,33 @@
+__________ BASIC EDA SUMMARY ______________________
+Shape: (515738, 17)
+
+Missing values (top 20):
+lng                                           3268
+lat                                           3268
+Positive_Review                                  0
+days_since_review                                0
+Tags                                             0
+Reviewer_Score                                   0
+Total_Number_of_Reviews_Reviewer_Has_Given       0
+Review_Total_Positive_Word_Counts                0
+Hotel_Address                                    0
+Additional_Number_of_Scoring                     0
+Review_Total_Negative_Word_Counts                0
+Negative_Review                                  0
+Reviewer_Nationality                             0
+Hotel_Name                                       0
+Average_Score                                    0
+Review_Date                                      0
+Total_Number_of_Reviews                          0
+dtype: int64
+
+Reviewer_Score describe:
+count    515738.000000
+mean          8.395077
+std           1.637856
+min           2.500000
+25%           7.500000
+50%           8.800000
+75%           9.600000
+max          10.000000
+Name: Reviewer_Score, dtype: float64
